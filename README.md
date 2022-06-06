@@ -2,7 +2,6 @@
 
 A simple coding challange designed to validate user input via regular expression.
 
-
 ## Demo
 
 ![Demo](validate-hex/public/demo.gif)
