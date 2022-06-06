@@ -2,12 +2,6 @@
 
 A simple coding challange designed to validate user input via regular expression.
 
-
-## Demo
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
 ## Run Locally
 
 Clone the project
