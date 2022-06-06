@@ -5,7 +5,7 @@ A simple coding challange designed to validate user input via regular expression
 
 ## Demo
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Demo](validate-hex/public/demo.gif)
 
 
 ## Run Locally
